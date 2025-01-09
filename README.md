@@ -49,7 +49,7 @@ gateway es útil para hacer uso desde peticiones de cliente, por ejemplo
 en el javascript de la cabina de votación o la visualización de resultados,
 y también para módulos externos que no sean aplicaciones django.
 
-Configurar y ejecutar el proyecto
+Configurar y ejecutar el proyecto bomba
 ---------------------------------
 
 Para configurar el proyecto, podremos crearnos un fichero local_settings.py basado en el
