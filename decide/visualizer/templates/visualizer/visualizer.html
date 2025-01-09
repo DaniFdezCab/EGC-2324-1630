@@ -21,7 +21,7 @@
             <h1>[[ voting.id ]] - [[ voting.name ]]</h1>
 
             <h2 v-if="!voting.start_date">La votación no ha comenzado</h2>
-            <h2 v-else-if="!voting.end_date">Votación en curso</h2>
+            <h2 v-else-if="!voting.end_date">La votación está en curso</h2>
             <div v-else>
                 <h2 class="heading">Resultados:</h2>
 
